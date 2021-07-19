@@ -5,9 +5,6 @@ import java.util.Scanner;
 public class Exercicio1 {
     public static void main(String [] args){
 
-
-
-
         Scanner scan = new Scanner(System.in);
         System.out.println("Insira uma nota :(0 - 10)");
         int nota = scan.nextInt();
